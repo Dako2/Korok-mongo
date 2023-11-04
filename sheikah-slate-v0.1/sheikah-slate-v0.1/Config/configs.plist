@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SERVER_IP_ADDRESS_LIST</key>
+	<array>
+		<string>http://127.0.0.1:9090</string>
+		<string>http://192.168.174.222:9090</string>
+		<string>http://104.197.0.129:9090</string>
+		<string>http://192.168.86.164:9090</string>
+	</array>
+</dict>
+</plist>
